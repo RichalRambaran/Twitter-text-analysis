@@ -1,6 +1,7 @@
 import tweepy as tp
 
 
+api_key = "G00md0vbqktfjaUepz8iflhvW"
 api_key_secret = "bD9GroaUoYGOmYWVajE4yDUs5AgXD6fohe4Jiip6epghOhBCb0"
 access_token = "1397224977489924109-LPsZvz4V4xdCyn2Fpj7ymCI5lE1hLV"
 access_token_secret = "54wo9X3sHR3ss3tKTg34ayEMfgJhCgiQKCzVvYKgRiaML"
